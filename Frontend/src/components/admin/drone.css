@@ -1,0 +1,305 @@
+.create-drone-form h5{
+    
+    width: 1007px;
+    height: 26px;
+    margin-left: 350px;
+    margin-top: 20px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+    
+    color: #1A3447;
+}
+
+.create-drone-form p{
+    width: 1000px;
+height: 24px;
+margin-left: 350px;
+    margin-top: 20px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300px;
+font-size: 18px;
+line-height: 24px;
+left: 450px;
+    top: 160px;
+color: #1A3447;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.droneregister{
+  
+    top:45%;
+    width : 100%;
+    margin-top: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+}
+.tablehead h4{
+  width: 1007px;
+  height: 41px;
+  left: 358px;
+  margin-top: 20px;
+ 
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 44px;
+  
+  color: #1A3447;
+}
+
+.tablehead p{
+  width: 397px;
+  height: 24px;
+ 
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 24px;
+ 
+  color: #1A3447;
+ left: 358px;
+  top: 110px; 
+  
+  /* Inside auto layout */
+  
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.tablehead Button{
+    position: absolute;
+    width: 180px;
+    height: 45px;
+    right: 90px;
+    top: 91px;
+    background: #1A3447;
+  }
+
+  .tablehead #pdrone{
+  
+width: 1007px;
+height: 41px;
+
+margin-top: 20px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 44px;
+
+color: #1A3447;
+  }
+
+  .tablehead #pcheck{
+    width: 1227px;
+height: 49px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 24px;
+color: #1A3447;
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+left: 200px;
+top: 140px;
+  }
+
+  .tablehead #fbook{
+  
+width: 134px;
+height: 33px;
+
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 33px;
+/* identical to box height */
+
+letter-spacing: -0.01em;
+
+color: #000000;
+  }
+
+  .tablehead #pimage{
+    position: absolute;
+    width: 130px;
+    height: 130px;
+    right: 90px;
+    top: 95px;
+    border-radius: 100px;
+  }
+
+  .adminhead h6{
+  
+width: 1007px;
+height: 41px;
+left: 500px;
+top: 80px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 39px;
+
+color: #1A3447;
+  }
+
+  .searchdrone{
+    
+position: absolute;
+height: 22px;
+left: 71.56%;
+right: 2.78%;
+top:155px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 17.2241px;
+line-height: 21px;
+
+color: #333333;
+  }
+
+.adminhead #sdrone{
+  position: absolute;
+width: 244px;
+height: 26px;
+left: 760px;
+top: 45%;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height */
+
+letter-spacing: 0.01em;
+
+color: #000000;
+}
+
+.adminhead #sstatus{
+height: 29px;
+left: 10.34%;
+right: 74.42%;
+top: 30%;
+
+/* H2 */
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 29px;
+/* identical to box height */
+
+
+/* Colors / Black / 100% */
+
+color: #000000;
+}
+
+
+.dronecardet{
+
+position: relative;
+
+left: 1090px;
+top: -580px;
+padding: 15px;
+/* Drop_1 */
+margin-left: -25%;
+margin-bottom: 20px;
+border-radius: 30px;
+}
+
+.dronecardet img{
+  position: absolute;
+  left: 190px;
+  padding: 15px;
+
+}
+
+.dronecardetail{
+  left: 500px;
+top: 110px;
+margin-bottom: 10px;
+}
+
+.dronecardetail img{
+  position: absolute;
+  left: 160px;
+  padding: 15px;
+  top: 6px;
+}
+
+.dronecardhead h6{
+  
+  width: 1007px;
+  height: 41px;
+  left: 500px;
+ margin-top : 20px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 39px;
+  
+  color: #1A3447;
+
+}
+
+.dronecardhead p{
+  
+  width: 397px;
+  height: 24px;
+ margin-top: 30px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100;
+  font-size: 18px;
+  line-height: 24px;
+ 
+  color: #1A3447;
+ left: 358px;
+  top: 110px; 
+  
+  /* Inside auto layout */
+  
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  }
+
+.dronecardheadbut button{
+  width : 250px;
+  
+  margin-left: 40.62%;
+  margin-top: 30px;
+
+}
+

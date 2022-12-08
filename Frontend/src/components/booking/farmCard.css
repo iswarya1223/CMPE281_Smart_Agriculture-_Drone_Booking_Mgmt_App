@@ -1,0 +1,93 @@
+.farmCard{
+    margin-left: 20%;
+    margin-top: 13%;
+    
+    
+    
+}
+
+
+.farmCard1:hover {
+    box-shadow: 0 0 5px rgba(15, 15, 15, 0.26);
+  
+    transform: translateY(-1vmax);
+  }
+  .farmbutton1 button{
+    
+    justify-content: center;
+    align-items: center;
+    
+    gap: 10px;
+    position: relative;
+    width: 270px;
+    height: 50px;
+    margin-left: -25%;
+    left: 45%;
+   margin-top: 30px;
+    background: #1A3447;
+    border-radius: 5px;
+  }
+.titlefarm h4{
+    position: absolute;
+width: 1007px;
+height: 41px;
+left: 300px;
+top: 103px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 44px;
+
+color: #1A3447;
+}
+.titlefarm p{
+    position: absolute;
+    width: 1227px;
+height: 49px;
+left: 300px;
+top: 146px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 24px;
+
+color: #1A3447;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.farmCard p {
+    width: 299px;
+height: 23px;
+
+/* Header 2 */
+position:relative;
+top: 40px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 23px;
+letter-spacing: -0.02em;
+color: white;
+/* White */
+
+
+
+/* Elevation Light/5 */
+
+text-shadow: 0px 2px 20px rgba(153, 160, 178, 0.3);
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}

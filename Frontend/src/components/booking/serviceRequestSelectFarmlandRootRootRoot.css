@@ -1,0 +1,376 @@
+.serviceRequestSelectFarmlandRootRootRoot {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #ffffff;
+    overflow: hidden;
+  }
+  .flexColumn {
+    width: 1440px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .text1 {
+    width: 525px;
+    height: 41px;
+    left: 27px;
+    top: 27px;
+    position: absolute;
+    color: #1a3447;
+    font-size: 36px;
+    font-weight: 600;
+    font-family: Inter;
+  }
+  .header {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    overflow: hidden;
+  }
+  .outerSpaceFlexRow {
+    width: 726px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 36px 121px 28px 593px;
+    background-color: #1a3447;
+  }
+  .homeRecipesArticle {
+    color: #ffffff;
+    font-size: 20px;
+    font-family: PT Sans;
+    white-space: pre-wrap;
+  }
+  .search {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: flex-start;
+    margin: 1px 0px 0px 0px;
+  }
+  .shape {
+    width: 16px;
+    height: 17px;
+  }
+  .flexRow {
+    width: 1440px;
+    gap: 29px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .sideMenu {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .whiteFlexColumn {
+    width: 250px;
+    height: 772px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-end;
+    padding: 36px 28px;
+    background-color: #ffffff;
+    box-shadow: 0px 10px 60px 0px rgba(226, 236, 249, 0.5);
+  }
+  .flexRow1 {
+    gap: 8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: flex-start;
+    align-items: center;
+    margin: 0px 0px 64px 0px;
+  }
+  .setting {
+    width: 37px;
+    height: 37px;
+  }
+  .text2 {
+    font-size: 26px;
+    font-weight: 600;
+    font-family: Poppins;
+    white-space: nowrap;
+    letter-spacing: 0.26px;
+  }
+  .listMenu {
+    gap: 14px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: flex-start;
+    align-items: center;
+    margin: 0px 0px 32px 11px;
+  }
+  .text3 {
+    align-self: flex-start;
+    margin: 1px 0px 0px 0px;
+    color: #1a3447;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: Poppins;
+    white-space: nowrap;
+    letter-spacing: -0.14px;
+  }
+  .flexColumn1 {
+    height: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-self: stretch;
+    margin: 0px 0px 28px 0px;
+    padding: 8px 8px 8px 11px;
+    background-size: cover;
+    background-image: url("https://file.rendit.io/n/ih5XNZbTh1b1gplKfzdc.svg");
+  }
+  .listMenu1 {
+    gap: 44px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  .text4 {
+    align-self: flex-end;
+    margin: 0px 0px 1px 0px;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: Poppins;
+    white-space: nowrap;
+    letter-spacing: -0.14px;
+  }
+  .listMenu2 {
+    gap: 90px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 8px 38px 0px;
+  }
+  .flexRow3 {
+    gap: 12px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  .text5 {
+    align-self: flex-start;
+    color: #1a3447;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: Poppins;
+    white-space: nowrap;
+    letter-spacing: -0.14px;
+  }
+  .listMenu3 {
+    gap: 70px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 8px 42px 0px;
+  }
+  .text6 {
+    align-self: flex-end;
+    margin: 0px 0px 1px 0px;
+    color: #1a3447;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: Poppins;
+    white-space: nowrap;
+    letter-spacing: -0.14px;
+  }
+  .listMenu4 {
+    width: 229px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 8px 0px 0px;
+  }
+  .flexRow5 {
+    height: 25px;
+    gap: 12px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+  }
+  .usersquare {
+    width: 24px;
+    height: 24px;
+    align-self: flex-end;
+  }
+  .text7 {
+    color: #1a3447;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: Poppins;
+    white-space: nowrap;
+    letter-spacing: -0.14px;
+  }
+  .flexColumn2 {
+    width: 1007px;
+    height: 766px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 32px 0px 46.1px 0px;
+  }
+  .contents {
+    gap: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin: 0px 0px 31px 0px;
+    padding: 8px 0px 0px 0px;
+  }
+  .progressBar {
+    width: 745px;
+    gap: 8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .text8 {
+    width: 1007px;
+    height: 41px;
+    align-self: stretch;
+    margin: 0px 0px 17px 0px;
+    color: #1a3447;
+    font-size: 36px;
+    font-weight: 600;
+    font-family: Inter;
+  }
+  .step {
+    height: 49px;
+    gap: 32px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin: 0px 0px 31px 0px;
+  }
+  .title {
+    width: 724px;
+    height: 73px;
+    gap: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+  .paragraph {
+    width: 1227px;
+    height: 49px;
+    color: #1a3447;
+    font-size: 20px;
+    font-weight: 300;
+    font-family: Inter;
+  }
+  .flexRow6 {
+    width: 910px;
+    height: 476px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: stretch;
+    align-items: flex-start;
+    margin: 0px 0px 33px 0px;
+    padding: 0px 91px 0px 6px;
+  }
+  .cropCard {
+    height: 472px;
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0px 19px;
+    border-width: 1px;
+    border-radius: 5px;
+    border-style: dashed;
+    border-color: #7b61ff;
+    overflow: hidden;
+  }
+  .image1 {
+    width: 314px;
+    height: 123px;
+  }
+  .stateSplash {
+    width: 311px;
+    height: 175px;
+    gap: 4px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    padding: 16px;
+    border-radius: 15px;
+    background-color: rgba(87, 211, 140, 0);
+    box-shadow: 0px 2px 20px 0px rgba(153, 160, 178, 0.3);
+  }
+  .cropCardDark {
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-self: flex-end;
+    padding: 19px 19px 21px 19px;
+    border-width: 1px;
+    border-radius: 5px;
+    border-style: dashed;
+    border-color: #7b61ff;
+    overflow: hidden;
+  }
+  .stateSplash1 {
+    width: 311px;
+    height: 173px;
+    gap: 4px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    padding: 16px;
+    border-radius: 15px;
+    background-color: rgba(87, 211, 140, 0);
+    box-shadow: 0px 2px 20px 0px rgba(153, 160, 178, 0.3);
+  }
+  .outerSpaceText {
+    width: 532px;
+    height: 27.9px;
+    gap: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 0px 0px 186px;
+    padding: 0px;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: Inter;
+    white-space: nowrap;
+    border-width: 0px;
+    border-radius: 5px;
+    box-sizing: content-box;
+    background-color: #1a3447;
+    cursor: pointer;
+  }
+  .outerSpaceText:hover {
+    opacity: 70%;
+  }
+  

@@ -1,0 +1,68 @@
+.register-form1, .register-form-shadow1 {
+    left: 63%;
+    margin-left: 350px;
+    width: 300px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 17.2241px;
+
+
+    /*margin-top: 25%;*/
+  }
+  .farmer-verifi-form{
+   
+    margin-left: 350px;
+    font-family: 'Inter';
+    font-style: normal;
+    width: 300px;
+    width: 400px;
+  }
+  .farmer-verifi-form h5{
+   
+    width: 500px;
+  height: 30px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 35px;
+  color: #1A3447;
+  }
+  .register-form1 h5
+{
+  width: 500px;
+  height: 30px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 39px;
+  margin-bottom: 30px;
+  color: #1A3447;
+}
+  .farmer-verifi-form > p{
+  font-size: 16px;
+				font-family: inherit;
+  }
+  .register-form-shadow1 {
+    background-color: white;
+    height: 50px;
+    padding: 20px;
+    border-radius: 5px;
+    width: 360px;
+    opacity: 0.8;
+  }
+
+  .btn_panel {
+    margin-top: 20px;
+  }
+  
+  .btn_panel > .btn:not(:last-child) {
+    margin-right: 132px;
+  }
+
+  .farmbtn_panel{
+    margin-top: 20px;
+  }
+  .farmbtn_panel > .btn:not(:last-child) {
+    margin-right: 172px;
+  }
